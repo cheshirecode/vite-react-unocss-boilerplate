@@ -1,6 +1,6 @@
 {
   "name": "cheshirecode-vite-react-unocss-boilerplate",
-  "description": "Boilerplate for Rolldown Vite + React + UnoCSS, with linting",
+  "description": "Boilerplate for Vite 8 + React + UnoCSS, with linting",
   "private": true,
   "type": "module",
   "version": "0.0.0",
@@ -24,7 +24,7 @@
     "@types/react-dom": "^19.2.3",
     "@typescript/native-preview": "^7.0.0-dev.20260617.2",
     "@unocss/reset": "^66.7.2",
-    "@vitejs/plugin-react": "^5.2.0",
+    "@vitejs/plugin-react": "^6.0.2",
     "eslint": "^10.5.0",
     "eslint-plugin-react-hooks": "^7.1.1",
     "eslint-plugin-react-refresh": "^0.5.3",
@@ -33,10 +33,7 @@
     "typescript": "^6.0.3",
     "typescript-eslint": "^8.61.1",
     "unocss": "^66.7.2",
-    "vite": "npm:rolldown-vite@^7.3.1",
+    "vite": "^8.0.16",
     "vitest": "^4.1.9"
-  },
-  "overrides": {
-    "esbuild": "^0.28.1"
   }
 }

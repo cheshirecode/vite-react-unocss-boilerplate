@@ -2,9 +2,9 @@
 
 [![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/fork/github/cheshirecode/vite-react-unocss-boilerplate?terminal=dev)
 
-Boilerplate for [scaffolded Vite + React](https://vite.dev/guide/) with:
+Boilerplate for [Vite 8 + React](https://vite.dev/guide/) with:
 
-- [Rolldown-backed Vite](https://www.npmjs.com/package/rolldown-vite)
+- [Official Vite](https://vite.dev/) with the Vite 8 Rolldown-backed build pipeline
 - Native TypeScript checking through `tsgo`
 - [UnoCSS](https://unocss.dev/integrations/vite)
 - Linting/formatting
