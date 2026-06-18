@@ -30,7 +30,7 @@ function App() {
           {' | '}
           <a
             className="App-link"
-            href="https://vitejs.dev/guide/features.html"
+            href="https://vite.dev/guide/features.html"
             target="_blank"
             rel="noopener noreferrer"
           >

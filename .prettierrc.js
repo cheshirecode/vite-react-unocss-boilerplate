@@ -1,3 +1,4 @@
-const prettierConfig = require('@fieryeagle/eslint-config-react/.prettierrc.js');
-
-module.exports = prettierConfig;
+export default {
+  singleQuote: true,
+  trailingComma: 'none'
+};
