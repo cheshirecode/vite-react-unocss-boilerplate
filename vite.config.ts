@@ -4,8 +4,5 @@ import UnoCSS from 'unocss/vite';
 
 // https://vite.dev/config/
 export default defineConfig({
-  plugins: [react(), UnoCSS()],
-  build: {
-    cssMinify: 'esbuild'
-  }
+  plugins: [react(), UnoCSS()]
 });
