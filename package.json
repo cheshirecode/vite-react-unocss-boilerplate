@@ -6,7 +6,7 @@
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",
-    "build": "npm run typecheck && vite build",
+    "build": "tsgo --noEmit && vite build",
     "typecheck": "tsgo --noEmit",
     "preview": "vite preview",
     "format": "prettier --write {**/*,*}.{js,ts,jsx,tsx}",
